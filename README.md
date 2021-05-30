@@ -1,6 +1,6 @@
 # csv-sorter
 
-## After compiling the program with "make" command, the program can be invoked by: 
+### After compiling the program with "make" command, the program can be invoked by: 
 
 ./myhie -i InputFile -k NumOfWorkers -r -a AttributeNumber -o Order -s OutputFile
 
