@@ -1,5 +1,7 @@
 # csv-sorter
 
+### A C++ program to sort a CSV file with a number of columns using bubble sort and insert sort algorithms.
+
 ### After compiling the program with "make" command, the program can be invoked by: 
 
 ./myhie -i InputFile -k NumOfWorkers -r -a AttributeNumber -o Order -s OutputFile
